@@ -1,0 +1,10 @@
+{
+  "name": "{{id}}",
+  "version": "1.0.0-beta",
+  "private": true,
+  "dependencies": {
+    {{#libraries}}
+    "{{this}}": "latest",
+    {{/libraries}}
+  }
+}

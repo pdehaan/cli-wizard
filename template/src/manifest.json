@@ -1,0 +1,10 @@
+{
+  "name": "{{id}}",
+  "version": "1.0.0-beta",
+  "applications": {
+    "gecko": {
+      "id": "{{id}}@{{xtype}}.mozilla.com",
+      "strict_min_version": "63.0"
+    }
+  }
+}
